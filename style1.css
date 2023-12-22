@@ -261,7 +261,7 @@ ul i:hover {
     height: 500px;
     width: 96%;
     margin: auto;
-    border: 1px solid red;  
+    /* border: 1px solid red;   */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -270,7 +270,7 @@ ul i:hover {
 .fourth-header{
     height: 100px;
     width: 100%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -287,7 +287,7 @@ ul i:hover {
 .fourth-container{
     height: 300px;
     width: 90%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -295,18 +295,18 @@ ul i:hover {
 .fourth-container-1{
     height: 210px;
     width: 27%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     flex-direction: column;
     justify-content:space-evenly ;
     align-items: center;
     background-color: #F06534;
 }
-.fourth-container-1:hover{
+/* .fourth-container-1:hover{
        height: 105%;
        color: black;
        background-color: white;
-}
+} */
 
 .fourth-container-1 img{
     height: 50px;
